@@ -9,7 +9,7 @@
 .grid div {
     height: 60px;
     width: 60px;
-    border: solid black;
+    background: red;
 }
 
 .player-one {
